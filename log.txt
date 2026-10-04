@@ -1,0 +1,42 @@
+commit 5e3ce2ec58d2fd81d7a0bf1ebdd06b85f1714b1f
+Merge: a823fe8 4770001
+Author: Diabol <kamulllek01@mail.ru>
+Date:   Sun Oct 4 16:28:01 2026 +0300
+
+    Merge feature-b into main
+
+commit a823fe8c8aafb4fda76bb96d2161e4695051584e
+Author: Diabol <kamulllek01@mail.ru>
+Date:   Sun Oct 4 16:19:11 2026 +0300
+
+    Строка для конфликта ide main
+
+commit 4770001d09d2ddd8b6f05da3b9dd3e6791043c4d
+Author: Diabol <kamulllek01@mail.ru>
+Date:   Sun Oct 4 16:16:41 2026 +0300
+
+    Строка для конфликта ide feature-b
+
+commit cdd3e8f867d6f9f26907e7eb276cc04b08a7fe55
+Author: Diabol <kamulllek01@mail.ru>
+Date:   Sun Oct 4 16:02:01 2026 +0300
+
+    feature-b добавлено содержание 3-ей строки
+
+commit 94e771677071c27760bb80286b74cc4f78178746
+Author: Diabol <kamulllek01@mail.ru>
+Date:   Sun Oct 4 15:58:52 2026 +0300
+
+    feature-a добавлено содержание 4-ой строки
+
+commit 70aa3aa78867f1665c8a357135d2dad725b58402
+Author: Diabol <kamulllek01@mail.ru>
+Date:   Sun Oct 4 15:58:05 2026 +0300
+
+    feature-a добавлено содержание 3-ей строки
+
+commit e9ae7ff4e15c37a6f60e4650cfe6f7e5321d576d
+Author: Diabol <kamulllek01@mail.ru>
+Date:   Sun Oct 4 15:50:33 2026 +0300
+
+    first commit, add README
