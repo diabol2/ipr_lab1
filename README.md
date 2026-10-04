@@ -5,3 +5,5 @@
 Строка 1 из feature-a  
 Строка 2 из feature-a  
 Строка для конфликта main  
+Строка 1 из feature-b  
+Строка для конфликта feature-b  
